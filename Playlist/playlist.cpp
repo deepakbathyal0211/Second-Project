@@ -47,7 +47,7 @@ int Song::getId()
 
 Melody::Melody()
 {
-  //Default Constructor;
+  Default Constructor;
 }
 
 Melody::Melody(int id, string name) : Song(id, name)
