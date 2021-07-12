@@ -37,7 +37,7 @@ melodySongs(Song *songs)
   }
 
   s_play = i;
-  //  cout<<i<<endl<<s_play<<endl;
+   cout<<i<<endl<<s_play<<endl;
 
   return songs;
 }
